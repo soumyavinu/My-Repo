@@ -1,0 +1,17 @@
+[33mcommit d4b772e1472e40acfb5b42d505df256d3508156e[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Soumya <sowmyamatam23@gmail.com>
+Date:   Tue Mar 19 13:33:09 2024 +0530
+
+    this new file of Example
+
+[33mcommit 8b5cebeb8594b52789aca1e23fcdcf6a50344b17[m
+Author: Soumya <sowmyamatam23@gmail.com>
+Date:   Tue Mar 19 13:29:36 2024 +0530
+
+    this new test file
+
+[33mcommit ec76c08c748732819c60d743e8cb6037bc7e0fee[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtest[m[33m, [m[1;32mmaster[m[33m)[m
+Author: soumyavinu <145479282+soumyavinu@users.noreply.github.com>
+Date:   Mon Mar 18 20:37:32 2024 +0530
+
+    Initial commit
